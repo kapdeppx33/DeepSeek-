@@ -1,0 +1,46 @@
+{
+  "96LYOP0S4WZQ": {
+    "code": "96LYOP0S4WZQ",
+    "status": "used",
+    "created_at": "2025-11-03 14:58:31",
+    "created_by": 2033598660,
+    "comment": "NEWBOT",
+    "used_by": 2033598660,
+    "used_at": "2025-11-03 15:00:13",
+    "revoked_by": null,
+    "revoked_at": null
+  },
+  "SVTIMNO4295K": {
+    "code": "SVTIMNO4295K",
+    "status": "active",
+    "created_at": "2025-11-03 21:35:22",
+    "created_by": 2033598660,
+    "comment": "Починка",
+    "used_by": null,
+    "used_at": null,
+    "revoked_by": null,
+    "revoked_at": null
+  },
+  "6DI6RWS7UAR5": {
+    "code": "6DI6RWS7UAR5",
+    "status": "active",
+    "created_at": "2025-11-03 21:38:00",
+    "created_by": 2033598660,
+    "comment": "ещё один",
+    "used_by": null,
+    "used_at": null,
+    "revoked_by": null,
+    "revoked_at": null
+  },
+  "G4CWXAM7X854": {
+    "code": "G4CWXAM7X854",
+    "status": "used",
+    "created_at": "2025-11-04 04:00:48",
+    "created_by": 2033598660,
+    "comment": "Другу",
+    "used_by": 2137446504,
+    "used_at": "2025-11-04 04:01:57",
+    "revoked_by": null,
+    "revoked_at": null
+  }
+}
